@@ -4,7 +4,7 @@ Hi 👋 My name is Andrii Suvorov
 junior developer, student, geek
 -------------------------------
 
-Few years learn programming, always glad to tasks and challenges, now there just some studying tasks and tests:)
+Few years learn programming, always open for new challenges, now there just some studying tasks and tests:)
 
 * 🌍  I'm based in Tallinn
 * ✉️  You can contact me at [ammatori6395@gmail.com](mailto:ammatori6395@gmail.com)
