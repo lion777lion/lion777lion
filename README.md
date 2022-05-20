@@ -8,7 +8,7 @@ Few years learn programming, always open for new challenges, now there just some
 
 * 🌍  I'm based in Tallinn
 * ✉️  You can contact me at [ammatori6395@gmail.com](mailto:ammatori6395@gmail.com)
-* 🧠  I'm learning PHP, Java, JS and to much more:)
+* 🧠  I'm learning PHP, Java, JS and much more:)
 
 ### Skills
 
